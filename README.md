@@ -9,3 +9,17 @@
   <img src="res/raygizmo_icon.svg" alt="raylib-gizmo icon" width="270" height="270">
   <img src="res/raylib-gizmo.gif" alt="raylib-gizmo example">
 </p>
+
+---
+
+## Current Limitations
+
+| Operation  | Global | Local | View  |
+|------------|--------|-------|-------|
+| Translate  | Yes    | Yes   | Yes   |
+| Rotate     | Yes    | Yes   | Yes   |
+| Scale      | No     | Yes   | No    |
+
+For now, every gizmo with a scaling component will operate in local axis orientation. This means that an object will always be scaled as if no other transforms are applied.
+
+---
