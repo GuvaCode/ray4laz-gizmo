@@ -1,0 +1,48 @@
+
+** linux x64 **
+
+make and install raylib or copy raylib to external folder
+mkdir build 
+cd build 
+cmake .. # for static 
+cmake -DGIZMO_BUILD_SHARED=ON #for dynamic libs 
+cmake --build .
+-------------
+
+** linux x32 **
+
+make and install raylib or copy raylib to external folder
+mkdir build 
+cd build 
+cmake .. # for static 
+cmake -DGIZMO_BUILD_SHARED=ON #for dynamic libs 
+make LDFLAG=-m32 
+
+** windows system **
+using msys2
+settings msys2
+
+pacman -S cmake
+pacman -S git
+pacman -S gcc
+pacman -S python3
+
+** windows x64 **
+cross compile using toolchain see https://www.mingw-w64.org/build-systems/cmake/
+
+pacman -S mingw-w64-x86_64-raylib 
+mkdir build 
+cd build 
+cmake .. # for static 
+cmake -DGIZMO_BUILD_SHARED=ON #for dynamic libs 
+cmake --build .
+
+** windows x32 **
+
+pacman -S mingw-w64-i686-raylib 
+mkdir build 
+cd build 
+cmake .. # for static 
+cmake -DGIZMO_BUILD_SHARED=ON #for dynamic libs 
+cmake --build .
+
