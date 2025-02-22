@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- (C) Claudio Z. 2024 (www.cloudofoz.com) -->
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="793.70099"
+   height="793.70099"
+   viewBox="0 0 210.00005 210.00005"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="icon_002.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:lockguides="false"
+     inkscape:zoom="0.54236817"
+     inkscape:cx="-36.87532"
+     inkscape:cy="771.61608"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="29.986008"
+       y="612.75755"
+       width="739.22028"
+       height="147.32256"
+       id="rect1" />
+    <rect
+       x="220.33197"
+       y="628.40243"
+       width="537.14066"
+       height="127.76647"
+       id="rect5" />
+    <rect
+       x="29.986008"
+       y="612.75755"
+       width="739.22028"
+       height="147.32256"
+       id="rect2" />
+    <rect
+       x="220.33197"
+       y="628.40243"
+       width="537.14066"
+       height="127.76647"
+       id="rect6" />
+    <rect
+       x="29.986008"
+       y="612.75755"
+       width="739.22028"
+       height="147.32256"
+       id="rect7" />
+    <rect
+       x="29.986008"
+       y="612.75755"
+       width="739.22028"
+       height="147.32256"
+       id="rect8" />
+  </defs>
+  <g
+     inkscape:label="Layer"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="display:inline;fill:#408bf1;fill-opacity:1;stroke:#ffffff;stroke-width:4.02662;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4"
+       width="205.38022"
+       height="201.26741"
+       x="2.0015252"
+       y="6.4725685"
+       inkscape:label="blue_bk" />
+    <path
+       d="M 106.01017,2.1656542 V 106.77011 L 208.01043,205.221 V 2.1656542 Z"
+       style="display:inline;fill:#e64858;fill-opacity:1;stroke:#ffffff;stroke-width:3.9272;stroke-dasharray:none;stroke-opacity:1"
+       id="path6"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="red_bk" />
+    <path
+       d="M 105.72807,2.1833362 V 106.76968 L 2.2839213,205.20355 V 2.1833362 Z"
+       style="fill:#97d45f;fill-opacity:1;stroke:#ffffff;stroke-width:3.95456;stroke-dasharray:none;stroke-opacity:1"
+       id="path6-2"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="green_bk" />
+    <path
+       d="m 114.59668,738.88728 h 75 v -15 h -59.88 v -15 h 59.88 v -45 h -60 v 60 h -15 v -75 h 90 v 105 h -90 z m 120,-90 h 15 v 75 h -15 z m 0,-30 h 15 v 15 h -15 z m 120,45 h -75 v -15 h 90 v 45 h -75 v 15 h 75 v 15 h -90 v -45 h 75 z m 60,60 h -15 v -75 h 135 v 75 h -15 v -60 h -45 v 60 h -15 v -60 h -45 z m 150,-75 h 74.88 v 15 h -59.88 v 45 h 60 v -60 h 15 v 75 h -90 z"
+       id="text1"
+       style="display:inline;font-size:120px;font-family:'Grixel Acme 7 Wide Xtnd';-inkscape-font-specification:'Grixel Acme 7 Wide Xtnd';text-align:center;white-space:pre;shape-padding:1.84377;fill:#44002a;stroke:#44002a;stroke-width:10.3163"
+       transform="matrix(0.33926926,0,0,0.33926926,-24.612741,-124.9204)"
+       aria-label="gizmo"
+       inkscape:label="gizmo_text" />
+    <path
+       d="m 152.92924,711.74472 h -13.33337 v -66.66687 h 66.66687 v 13.33337 h -53.3335 z m 146.66713,-53.3335 h -66.66688 v -13.33337 h 80.00025 v 66.66687 h -80.00025 v -26.56008 h 13.33338 v 13.22671 h 53.3335 V 685.07797 H 232.92949 V 671.7446 h 66.66688 z m 40.00012,66.66688 h 66.66688 v -13.33338 h -66.66688 v -66.66687 h 13.33338 v 53.3335 h 53.3335 v -53.3335 h 13.33337 v 93.33362 H 339.59649 Z M 446.2635,618.4111 h 13.33338 v 80.00025 h 26.66675 v 13.33337 H 446.2635 Z m 66.66687,26.66675 h 13.33338 v 66.66687 h -13.33338 z m 0,-26.66675 h 13.33338 v 13.33337 h -13.33338 z m 40.00012,0 h 13.33338 v 26.66675 h 53.22683 v 13.33337 h -53.22683 v 40.00013 h 53.3335 v -53.3335 h 13.33337 v 66.66687 h -80.00025 z"
+       id="text2"
+       style="display:inline;font-size:106.667px;font-family:'Grixel Acme 7 Wide Xtnd';-inkscape-font-specification:'Grixel Acme 7 Wide Xtnd';text-align:center;white-space:pre;shape-padding:1.84377;fill:#44002a;stroke:#44002a;stroke-width:5"
+       transform="matrix(0.16456064,0,0,0.16456064,-8.9241961,-82.952825)"
+       aria-label="raylib"
+       inkscape:label="raylib_text" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#44002a;stroke-width:2.10984;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect9"
+       width="206.38658"
+       height="205.49297"
+       x="1.9443218"
+       y="2.2900989"
+       inkscape:label="contour" />
+  </g>
+</svg>
