@@ -1,4 +1,4 @@
-> **Note**: This library is in **beta**  The [raylib-gizmo](https://github.com/cloudofoz/raylib-gizmo) library is used.
+> **Note**:The [raylib-gizmo](https://github.com/cloudofoz/raylib-gizmo) library is used. This library is in **beta** Your feedback and support in enhancing its quality are greatly appreciated!
 
 ## Introduction
 
