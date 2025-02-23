@@ -1,0 +1,28 @@
+external/raylib/raylib/CMakeFiles/raylib.dir/rshapes.c.obj: \
+ /home/vadim/Проекты/ray4laz-gizmo/headers/external/raylib/src/rshapes.c \
+ /home/vadim/Проекты/ray4laz-gizmo/headers/external/raylib/src/raylib.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/stdarg.h \
+ /usr/share/mingw-w64/include/stdarg.h \
+ /usr/share/mingw-w64/include/_mingw_stdarg.h \
+ /usr/share/mingw-w64/include/vadefs.h \
+ /usr/share/mingw-w64/include/_mingw.h \
+ /usr/share/mingw-w64/include/_mingw_mac.h \
+ /usr/share/mingw-w64/include/_mingw_secapi.h \
+ /usr/share/mingw-w64/include/sdks/_mingw_ddk.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/stdbool.h \
+ /home/vadim/Проекты/ray4laz-gizmo/headers/external/raylib/src/config.h \
+ /home/vadim/Проекты/ray4laz-gizmo/headers/external/raylib/src/rlgl.h \
+ /usr/share/mingw-w64/include/math.h \
+ /usr/share/mingw-w64/include/crtdefs.h \
+ /usr/share/mingw-w64/include/corecrt.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/float.h \
+ /usr/share/mingw-w64/include/float.h \
+ /usr/share/mingw-w64/include/stdlib.h \
+ /usr/share/mingw-w64/include/corecrt_wstdlib.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/limits.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/syslimits.h \
+ /usr/share/mingw-w64/include/limits.h \
+ /usr/share/mingw-w64/include/sec_api/stdlib_s.h \
+ /usr/share/mingw-w64/include/malloc.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/mm_malloc.h \
+ /usr/share/mingw-w64/include/errno.h

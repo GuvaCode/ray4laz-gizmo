@@ -3,7 +3,6 @@ unit raygizmo;
   Copyright (c) 2024 Claudio Z. (@cloudofoz)
   https://github.com/cloudofoz/raylib-gizmo
   pascal header translation 2024 gunko vadim
-
   *)
 
 {$mode objfpc}{$H+}
@@ -17,7 +16,7 @@ uses
   raylib;
   {$IFDEF WINDOWS}
   const
-  cDllName = 'raylib.dll';
+  cDllName = 'msys-raygizmo.dll';
   {$IFEND}
 
 type

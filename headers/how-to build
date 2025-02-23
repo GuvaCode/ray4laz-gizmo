@@ -29,6 +29,9 @@ pacman -S python3
 
 ** windows x64 **
 cross compile using toolchain see https://www.mingw-w64.org/build-systems/cmake/
+cmake -DGIZMO_BUILD_SHARED=ON -DCMAKE_TOOLCHAIN_FILE=toolchain-mingw64.cmake ..
+
+
 
 pacman -S mingw-w64-x86_64-raylib 
 mkdir build 

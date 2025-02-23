@@ -16,7 +16,7 @@ uses
   raylib;
   {$IFDEF WINDOWS}
   const
-  cDllName = 'msys-raygizmo.dll';
+  cDllName = 'libraygizmo.dll';
   {$IFEND}
 
 type
