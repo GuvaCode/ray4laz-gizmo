@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Lazarus Version="4.0RC2"/>
+  <Compiler Value="/usr/bin/fpc" Date="1625802185"/>
+  <Params Value="-MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fu/home/vadim/Проекты/ray4laz-gizmo/package/ -Fu/home/vadim/Проекты/ray4laz-gizmo/source -Fu/usr/share/lazarus/4.0.0/packager/units/x86_64-linux -Fu/home/vadim/Проекты/ray4laz/package/lib/x86_64-linux -FU/home/vadim/Проекты/ray4laz-gizmo/package/lib/x86_64-linux/ ray4lazgizmo.pas"/>
+</CONFIG>

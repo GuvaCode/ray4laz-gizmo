@@ -40,6 +40,8 @@ cmake --build .
 ** windows x32 **
 
 pacman -S mingw-w64-i686-raylib 
+pacman -S mingw-w64-i686-gcc
+
 mkdir build 
 cd build 
 cmake .. # for static 
